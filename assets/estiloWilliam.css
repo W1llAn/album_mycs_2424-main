@@ -1,0 +1,22 @@
+table {
+    width: 90%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 30px;
+}
+
+.imagen img {
+    width: 100%;
+    height: auto;
+    padding-left: 30px;   
+}
+
+.informacion {
+    vertical-align: top; /* Alinea el contenido de la celda en la parte superior */
+    padding-left: 20px; /* Espacio a la izquierda del texto para separarlo de la imagen */
+    width: 75%;
+}
